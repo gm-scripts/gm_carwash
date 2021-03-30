@@ -1,0 +1,66 @@
+{
+    "framework": "esx",
+    "gm_notify": false,
+    "price": 200,
+    "lang": {
+        "press_e": "Press ~INPUT_CONTEXT~ to wash your car"
+    },
+    "keys": {
+        "startwash": 38
+    },
+    "zones": [
+        {
+          "x": 26.59,
+          "y": -1391.89,
+          "z": 28.31,
+          "showblip": true
+        },
+        {
+          "x": -278.938,
+          "y": -339.955,
+          "z": 28.969,
+          "showblip": true
+        },
+        {
+          "x": -298.938,
+          "y": -339.955,
+          "z": 28.969,
+          "showblip": true
+        }
+      ],
+      "marker": {
+        "type": 1,
+        "direction": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 2.5,
+          "y": 2.5,
+          "z": 1.0
+        },
+        "color": {
+          "r": 35,
+          "g": 191,
+          "b": 124
+        },
+        "alpha": 100, 
+        "bob": false,
+        "face": false,
+        "distance": {
+          "show": 100.0,
+          "open": 2.0
+        }
+      },
+      "blips": {
+        "title": "Bikes Rental",
+        "color": 15,
+        "id": 100
+      }
+}
